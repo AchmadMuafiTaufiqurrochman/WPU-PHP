@@ -1,9 +1,9 @@
 # WPU-PHP
 ROADMAP PHP:
-1. client side vs server side scripting v
-2. static vs dynamic website v
-3. menyiapkan lingkungan pengemambangan () v
-4. sintaks php
+1. ~~client side vs server side scripting~~
+2. ~~static vs dynamic website~~
+3. ~~menyiapkan lingkungan pengemambangan~~
+4. ~~sintaks php~~
 5. array
 6. request method (metode pengiriman dan penerimaan data antar halaman)
 7. Website Sederhana
